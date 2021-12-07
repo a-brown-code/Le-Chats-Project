@@ -1,0 +1,20 @@
+
+EQUATIONS:
+BTB + H -> BTBH (CHANGES: Add NaOH (Down conc H+), Add HCl (Up conc H+), Add NaCl (Down conc BTB), Add Heat, Remove Heat)
+FeCl + KSCN -> FeSCN + KCl (CHANGES: Add KNO3 (Up conc K+), Add FeCl3 (Up conc Fe), Add Na2HPO (Down SCN), Add KSCN (Up K and SCN), Add heat, Remove heat)
+CuSO4 + 4NH3 -> [Cu(NH3)4]SO4 (CHANGES: Add NH3 (Up conc NH3), Add HCl (Down conc NH3), Add heat, Remove heat)
+Cu(H2O)6 + 4HCl -> CuCl4 + 6H20 + 4H (CHANGES: Add water (Down all concs), Add HCl (Up conc HCl) *** PRECIPITATE!
+Co(H2O)6 + 4Cl -> CoCl4 + 6H2O + 4H (Add NaCl (Up conc Cl), water (Down all concs), Add AgNO3 (Down conc Cl, down conc Co), Acetone??? does nothing???, Add heat, Remove Heat)
+H2O + CO2 + MR -> H2CO3 + MR -> HMR + HCO3 + MR -> 2HMR + CO3 (Up Pressure, Down pressure)
+
+Increment color method
+Decrement color method
+
+1. Pick reaction
+    - User end: Press button
+        - Graphics end: display buttons + highlight + cursor detection
+    - Computer end: set color increment, set starting color
+2. Pick effects
+    - User end: Press button
+        - Graphics end: display buttons, display reaction, display color, highlight, cursor detection
+    - Computer end: Update color, disable pressed button

@@ -18,3 +18,8 @@ Decrement color method (Done!)
     - User end: Press button
         - Graphics end: display buttons, display reaction, display color, highlight, cursor detection
     - Computer end: Update color, disable pressed button
+
+HEXCODES:
+1. BTB + H -> BTBH
+    @Equilibrium (#436A2C)
+    @Products +1 (

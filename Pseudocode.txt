@@ -7,8 +7,8 @@ Cu(H2O)6 + 4HCl -> CuCl4 + 6H20 + 4H (CHANGES: Add water (Down all concs), Add H
 Co(H2O)6 + 4Cl -> CoCl4 + 6H2O + 4H (Add NaCl (Up conc Cl), water (Down all concs), Add AgNO3 (Down conc Cl, down conc Co), Acetone??? does nothing???, Add heat, Remove Heat)
 H2O + CO2 + MR -> H2CO3 + MR -> HMR + HCO3 + MR -> 2HMR + CO3 (Up Pressure, Down pressure)
 
-Increment color method
-Decrement color method
+Increment color method (Done!)
+Decrement color method (Done!)
 
 1. Pick reaction
     - User end: Press button

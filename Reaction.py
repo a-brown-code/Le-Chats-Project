@@ -4,7 +4,7 @@ class Reaction:
         self.current_red = start_color[0]
         self.current_green = start_color[1]
         self.current_blue = start_color[2]
-        # Color increment: a list in the form [red, green, blue] representing the change in the color object
+        # Color increment: a list in the form [red, green, blue] representing the change in the color object WHEN A PRODUCT SHIFT OCCURS
         self.color_increment = color_increment
         # Reactants: a list of strings representing the reactants
         self.reactants = reactants
